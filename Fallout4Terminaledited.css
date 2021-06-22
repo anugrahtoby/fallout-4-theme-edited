@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 
 :root, .theme-light {
@@ -51,7 +51,7 @@
 
 /* --== Change font ==-- */
 html, body {
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Iceland', monospace;
 }
 
 /* --== Add CRT effect ==-- */
